@@ -1,0 +1,10 @@
+
+iot-app/.idea/
+iot-web/.idea/
+
+iot-app/node_modules/
+iot-web/node_modules/
+
+iot-app/package-lock.json
+iot-web/package-lock.json
+iot-web/build/

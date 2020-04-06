@@ -1,0 +1,973 @@
+{
+  "overallInherentRisk": 25.9987,
+  "overallResidualRisk": 13.8723,
+  "risksPerDomain": [
+    {
+      "domain": "Supplier Security",
+      "inherentRisk": 1.5527,
+      "residualRisk": 0.794984
+    },
+    {
+      "domain": "Systems Security",
+      "inherentRisk": 7.43794,
+      "residualRisk": 2.62085
+    },
+    {
+      "domain": "Governance and Accountability",
+      "inherentRisk": 0,
+      "residualRisk": 0
+    },
+    {
+      "domain": "Threat and Vulnerability Management",
+      "inherentRisk": 8.97423,
+      "residualRisk": 3.36428
+    },
+    {
+      "domain": "Physical Security",
+      "inherentRisk": 1.42477,
+      "residualRisk": 0.60152
+    },
+    {
+      "domain": "Identity and Access Management",
+      "inherentRisk": 6.07039,
+      "residualRisk": 1.95752
+    },
+    {
+      "domain": "Event Logging and Monitoring",
+      "inherentRisk": 2.84024,
+      "residualRisk": 0.335458
+    },
+    {
+      "domain": "Communications Security",
+      "inherentRisk": 5.42214,
+      "residualRisk": 1.69724
+    },
+    {
+      "domain": "Encryption",
+      "inherentRisk": 1.44743,
+      "residualRisk": 0.850618
+    }
+  ],
+  "vulnerabilityLikelihoodImpact": [
+    {
+      "vulnerability": "In deployment infrastructure (i.e. power failure)",
+      "likelihood": 0.68651,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "In production or integration supply chain (i.e. use of faulty component)",
+      "likelihood": 0.68651,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "Reset switch leading to insecure state",
+      "likelihood": 0.0729366,
+      "impact": 19.5652
+    },
+    {
+      "vulnerability": "Removable media",
+      "likelihood": 0.344588,
+      "impact": 30.4348
+    },
+    {
+      "vulnerability": "No hardware tamper protection",
+      "likelihood": 0.68651,
+      "impact": 31.7391
+    },
+    {
+      "vulnerability": "No authenticity check on all updates",
+      "likelihood": 0.257537,
+      "impact": 6.73913
+    },
+    {
+      "vulnerability": "No integrity check on all updates",
+      "likelihood": 0.257537,
+      "impact": 6.73913
+    },
+    {
+      "vulnerability": "No manual update mechanism",
+      "likelihood": 0.965102,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "No control of sensor environment (e.g. can blind a camera- or put a heat source in front of a temperature sensor)",
+      "likelihood": 0.101917,
+      "impact": 17.1739
+    },
+    {
+      "vulnerability": "Unnecessary or unused services and applications",
+      "likelihood": 0.99917,
+      "impact": 30.4348
+    },
+    {
+      "vulnerability": "No jamming countermeasures",
+      "likelihood": 0.273979,
+      "impact": 14.3478
+    },
+    {
+      "vulnerability": "Insecure 3rd party APIs",
+      "likelihood": 0.980629,
+      "impact": 31.7391
+    },
+    {
+      "vulnerability": "Insecure boot process",
+      "likelihood": 0.961823,
+      "impact": 30.4348
+    },
+    {
+      "vulnerability": "Exposed services on open ports",
+      "likelihood": 0.697517,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "Lack of message integrity check (nonce- MACs- etc.)",
+      "likelihood": 0.542665,
+      "impact": 17.1739
+    },
+    {
+      "vulnerability": "Unchecked resource buffers",
+      "likelihood": 0.318377,
+      "impact": 31.7391
+    },
+    {
+      "vulnerability": "No redundancy of storage or service",
+      "likelihood": 0.924618,
+      "impact": 14.3478
+    },
+    {
+      "vulnerability": "Unnecessary privileges",
+      "likelihood": 0.763007,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "Cloud interface does not support two-factor authentication",
+      "likelihood": 0.75617,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "Unencrypted local storage",
+      "likelihood": 0.949374,
+      "impact": 15.6522
+    },
+    {
+      "vulnerability": "Existence of a kill command that permanently disables device",
+      "likelihood": 0.0729366,
+      "impact": 14.3478
+    },
+    {
+      "vulnerability": "No alternative network infrastructure",
+      "likelihood": 0.966627,
+      "impact": 14.3478
+    },
+    {
+      "vulnerability": "Programming modification/reconfiguration",
+      "likelihood": 0.847226,
+      "impact": 31.7391
+    },
+    {
+      "vulnerability": "No update mechanism",
+      "likelihood": 0.965102,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "Unsafe password recovery procedure",
+      "likelihood": 0.231745,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "No lock-out or delaying measures to protect accounts against brute-force attacks",
+      "likelihood": 0.789714,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "No automatic session/logout timeout function",
+      "likelihood": 0.659837,
+      "impact": 12.3913
+    },
+    {
+      "vulnerability": "Hardcoded security information",
+      "likelihood": 0.842396,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "Weak or default passwords",
+      "likelihood": 0.824485,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "No authentication",
+      "likelihood": 0.662979,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "No encryption on all updates",
+      "likelihood": 0.289944,
+      "impact": 1.73913
+    },
+    {
+      "vulnerability": "Some security features are left unenabled",
+      "likelihood": 0.999971,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "Vulnerable protocol design",
+      "likelihood": 0.754487,
+      "impact": 18.6957
+    },
+    {
+      "vulnerability": "No protection against account harvesting",
+      "likelihood": 0.854314,
+      "impact": 4.78261
+    },
+    {
+      "vulnerability": "No mutual authentication between client and server",
+      "likelihood": 0.444345,
+      "impact": 12.3913
+    },
+    {
+      "vulnerability": "Easy discovery of IoT devices on LAN",
+      "likelihood": 0.75826,
+      "impact": 4.78261
+    },
+    {
+      "vulnerability": "No or insuffcient DDoS countermeasures",
+      "likelihood": 0.981301,
+      "impact": 14.3478
+    },
+    {
+      "vulnerability": "Insuffcient backup DNS or IPs",
+      "likelihood": 0.972156,
+      "impact": 3.91304
+    },
+    {
+      "vulnerability": "Administration interface contains common web application/management console vulnerabilities",
+      "likelihood": 0.994026,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "Ignoring certificate revocation lists",
+      "likelihood": 0.154496,
+      "impact": 16.7391
+    },
+    {
+      "vulnerability": "Security audit vulnerabilities - security audit functions miss",
+      "likelihood": 0.228239,
+      "impact": 3.91304
+    },
+    {
+      "vulnerability": "Unchecked protocol parameters",
+      "likelihood": 0.754487,
+      "impact": 22.6087
+    },
+    {
+      "vulnerability": "No physical security (i.e. physical barriers- locks or access controls)",
+      "likelihood": 0.299994,
+      "impact": 31.7391
+    },
+    {
+      "vulnerability": "Weak or broken encryption",
+      "likelihood": 0.882165,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "Application does not use SSL connection to cloud",
+      "likelihood": 0.45466,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "No enforcement or possibility of strong password",
+      "likelihood": 0.824485,
+      "impact": 12.1739
+    },
+    {
+      "vulnerability": "Weak pseudo-random number generator",
+      "likelihood": 0.882165,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "No automated update mechanism",
+      "likelihood": 0.965102,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "Non-standard protocol implementation",
+      "likelihood": 0.754487,
+      "impact": 22.6087
+    },
+    {
+      "vulnerability": "Unauthenticated requests to perform actions (ex. reconon- data retrieval- management functions- etc.) gurati",
+      "likelihood": 0.986049,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "Clear text traffic",
+      "likelihood": 0.45466,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "Cloud platform contains common web application/management console vulnerabilities",
+      "likelihood": 0.994687,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "Key and Token reuse",
+      "likelihood": 0.968101,
+      "impact": 12.3913
+    },
+    {
+      "vulnerability": "No lock-out or delaying measures to protect accounts against brute-force attacks",
+      "likelihood": 0.789714,
+      "impact": 8.26087
+    },
+    {
+      "vulnerability": "Identification options and HTTP trace methods are enabled",
+      "likelihood": 0.470756,
+      "impact": 12.1739
+    },
+    {
+      "vulnerability": "Ability to perform unrequested rmware upgrades",
+      "likelihood": 0.892001,
+      "impact": 27.8261
+    },
+    {
+      "vulnerability": "Identity verification (e.g. certificate pinning)",
+      "likelihood": 0.960469,
+      "impact": 34.5652
+    },
+    {
+      "vulnerability": "Data is identifiable and not anonymized",
+      "likelihood": 0.498584,
+      "impact": 3.47826
+    },
+    {
+      "vulnerability": "No session identifiers (session tokens- OTP- etc.)",
+      "likelihood": 0.153958,
+      "impact": 22.8261
+    }
+  ],
+  "controlSensitivities": [
+    {
+      "control": "Ensure updates can be verified -  downloaded securely and applied quickly when vulnerabilities are discovered",
+      "risk": 0.311043
+    },
+    {
+      "control": "Schedule and implement periodic updates",
+      "risk": 0.229837
+    },
+    {
+      "control": "The access control privileges are defined -  justified and documented.",
+      "risk": 0.119393
+    },
+    {
+      "control": "Conduct periodic web application penetration testing assessments for web interfaces and ensure a web application penetration testing assessment test has been conducted before deployment",
+      "risk": 0.107539
+    },
+    {
+      "control": "Ensure redundancy is available in case of IoT devices being unavailable.",
+      "risk": 0.101224
+    },
+    {
+      "control": "Manage changes with suppliers",
+      "risk": 0.099373
+    },
+    {
+      "control": "Identify and address risks while dealing with third parties through agreements",
+      "risk": 0.099373
+    },
+    {
+      "control": "Monitor and review supplier services",
+      "risk": 0.099373
+    },
+    {
+      "control": "All the applicable security features supported by the OS are enabled.r",
+      "risk": 0.0962508
+    },
+    {
+      "control": "Delete unnecessary applications on IoT devices",
+      "risk": 0.0945924
+    },
+    {
+      "control": "Delete unused services on IoT devices",
+      "risk": 0.0945924
+    },
+    {
+      "control": "Ensure web application firewall is enabled where available",
+      "risk": 0.0871096
+    },
+    {
+      "control": "Ensure web application firewall is enabled where available",
+      "risk": 0.0863605
+    },
+    {
+      "control": "Where a product includes a trusted secure boot process -  the entire production test and any related calibration is executed with the processor system operating in its secured boot -  authenticated software mode.",
+      "risk": 0.0766175
+    },
+    {
+      "control": "Ensure HTTPS is enabled",
+      "risk": 0.0744735
+    },
+    {
+      "control": "A vulnerability assessment has been performed before deployment and on an ongoing basis afterwards.",
+      "risk": 0.0668157
+    },
+    {
+      "control": "Perform application whitelisting",
+      "risk": 0.0615835
+    },
+    {
+      "control": "Maintain devices to ensure integrity and availability",
+      "risk": 0.0570301
+    },
+    {
+      "control": "Change the default password to a strong one and if possible change the default username as well",
+      "risk": 0.0502481
+    },
+    {
+      "control": "Ensure all collected personal data is properly protected using encryption at rest and in transit",
+      "risk": 0.0486166
+    },
+    {
+      "control": "Monitor the network continuously",
+      "risk": 0.0479226
+    },
+    {
+      "control": "Conduct periodic network penetration testing assessments or red team exercises",
+      "risk": 0.0466663
+    },
+    {
+      "control": "Perform security architecture and design exercise to identify security services to be installed and install identified security services.",
+      "risk": 0.0449709
+    },
+    {
+      "control": "Enable account lockout functionality where available",
+      "risk": 0.0441964
+    },
+    {
+      "control": "Enable physical protection against tampering and reverse engineering",
+      "risk": 0.0427726
+    },
+    {
+      "control": "Ensure two factor authentication is enabled where available ",
+      "risk": 0.0395161
+    },
+    {
+      "control": "There is a process for secure provisioning of keys that includes generation -  distribution -  revocation and destruction. For example in compliance with FIPS140-2 [ref 5] or similar process. ",
+      "risk": 0.0392473
+    },
+    {
+      "control": "Ensure SSL/TLS implementations are up to date and properly configured",
+      "risk": 0.0269737
+    },
+    {
+      "control": "Enable making a periodic change of passwords mandatory (for example the duration could be 90 days)",
+      "risk": 0.0262709
+    },
+    {
+      "control": "Check to ensure that any sensitive data and licensed software has been removed or securely overwritten prior to disposal. ",
+      "risk": 0.0219595
+    },
+    {
+      "control": "Ensure all devices do not make network ports and/or services available to the internet",
+      "risk": 0.0197324
+    },
+    {
+      "control": "Ensure all devices operate with a minimal number of network ports active",
+      "risk": 0.0197324
+    },
+    {
+      "control": "Disable any unused physical ports",
+      "risk": 0.0192146
+    },
+    {
+      "control": "All communications port(s) -  such as USB -  RS232 etc. -  which are not used as part of the product_ normal operation are not physically accessible or are disabled. ",
+      "risk": 0.0192146
+    },
+    {
+      "control": "Ensure all communication between system components is encrypted as well as encrypting traffic between the system or device and the internet",
+      "risk": 0.015868
+    },
+    {
+      "control": "Apply physical protection measures against environmental threats",
+      "risk": 0.0149527
+    },
+    {
+      "control": "Apply physical access controls to prevent unauthorized access to IoT devices",
+      "risk": 0.0132029
+    },
+    {
+      "control": "Apply jamming countermeasures",
+      "risk": 0.012861
+    },
+    {
+      "control": "Passwords file(s) are owned by and are only accessible to and writable by the most privileged account. ",
+      "risk": 0.0104203
+    },
+    {
+      "control": "The production software signing keys are under access control.r",
+      "risk": 0.0100138
+    },
+    {
+      "control": "Mandate permission prior to taking devices off-site or moving devices between locations",
+      "risk": 0.00996849
+    },
+    {
+      "control": "The product only allows controlled user account access; access using anonymous or guest user accounts are not supported without justification.",
+      "risk": 0.00893165
+    },
+    {
+      "control": "Limit administrative capabilities",
+      "risk": 0.00893165
+    },
+    {
+      "control": "All the related and network elements servers prevent anonymous/guest access except for read only access to public information.",
+      "risk": 0.00893165
+    },
+    {
+      "control": "Access granted to employees is periodically reviewed.",
+      "risk": 0.00781519
+    },
+    {
+      "control": "Files and directories are set to appropriate access privileges on a need to access basis.",
+      "risk": 0.00781519
+    },
+    {
+      "control": "Set user privileges to the minimal needed for operation",
+      "risk": 0.00781519
+    },
+    {
+      "control": "In the event that the product is intended to allow un-authenticated software -  such software should only be run with limited permissions and/or sandbox.r",
+      "risk": 0.00636434
+    },
+    {
+      "control": "Enable a firewall and ensure that it can only be accessed from your client systems",
+      "risk": 0.00595752
+    },
+    {
+      "control": "Enable a firewall and ensure that it can only be accessed from your client systems",
+      "risk": 0.00531537
+    },
+    {
+      "control": "Enable any alert and notification functionality for security-related events",
+      "risk": 0.00419279
+    },
+    {
+      "control": "Enable any logging functionality for security-related events",
+      "risk": 0.00419279
+    },
+    {
+      "control": "Protect log information from tampering",
+      "risk": 0.00359382
+    },
+    {
+      "control": "Enable network segmentation technologies such as firewalls to isolate IoT systems from critical IT systems",
+      "risk": 0.00169375
+    },
+    {
+      "control": "All interactive operating system accounts or logins have been disabled.",
+      "risk": 0.00145085
+    },
+    {
+      "control": "For products with multiple network interfaces -  the uncontrolled ability to forward IP packets between the interfaces is disabled.r",
+      "risk": 0.000749174
+    },
+    {
+      "control": "Ensure that asset owners are informed about what data is collected -  why -  where it will be stored. ",
+      "risk": 0
+    },
+    {
+      "control": "Retain data for only as long as necessary.",
+      "risk": 0
+    },
+    {
+      "control": "Ensure business continuity disaster recovery plans exist and are tested regularly.",
+      "risk": 0
+    },
+    {
+      "control": "Ensure periodic internal audits are conducted.",
+      "risk": 0
+    },
+    {
+      "control": "Use data only with prior permission of all interested parties.",
+      "risk": 0
+    },
+    {
+      "control": "Collect data only if it has business-use or is essential to the functioning of the IoT device",
+      "risk": 0
+    },
+    {
+      "control": "Ensure compliance with relevant laws and regulations.",
+      "risk": 0
+    },
+    {
+      "control": "There are documented information security policies and procedures based on accepted standards -  guidelines -  and other documentation. Required policies for IoT include policies on asset management -  access control -  physical security -  communications security -  systems security -  incident management -  business continuity and compliance. Required procedures for IoT include procedures on patch management -  exception management -  change management -  incident managment -  access control managment (user activation/deactivation and privilege management).",
+      "risk": 0
+    },
+    {
+      "control": "Organization of information security (roles and responsibilities to ensure information security) is defined for the consumer.",
+      "risk": 0
+    },
+    {
+      "control": "Ensure asset owners check/verify what data is collected and delete data if necessary.r",
+      "risk": 0
+    },
+    {
+      "control": "There is a secure notification process based upon the IoTSF _ Vulnerability Disclosure Guidelines_ or similar recognised process -  for notifying partners/ users of any security updates.",
+      "risk": 0
+    },
+    {
+      "control": "Ensure periodic third-party audits are conducted.",
+      "risk": 0
+    },
+    {
+      "control": "A policy has been established for dealing with both internal and third party security research on the products or services.",
+      "risk": 0
+    },
+    {
+      "control": "Whenever there is collection of data -  a privacy and acceptance notice must be acknowledged by the entity prior to providing the data. This notice must state the company's policy on data collection -  usage -  and retention.",
+      "risk": 0
+    },
+    {
+      "control": "A process is in place for consistent briefing of senior executives in the event of the identification of a vulnerability or a security breach -  especially those who may deal with the media or make public announcements. In particular that any public statementsmade in the event of a security breach -  should give as full and accurate account of the facts as possible.",
+      "risk": 0
+    },
+    {
+      "control": "There is a role -  typically a board level executive -  who takes ownership of and is responsible for product -  service and business level security.",
+      "risk": 0
+    }
+  ],
+  "controlSensitivitiesPerDomain": [
+    {
+      "title": "Communications Security Controls for Residual Risk Reduction",
+      "data": [
+        {
+          "control": "Ensure redundancy is available in case of IoT devices being unavailable.",
+          "risk": 0.101224
+        },
+        {
+          "control": "Ensure web application firewall is enabled where available",
+          "risk": 0.0871096
+        },
+        {
+          "control": "Perform security architecture and design exercise to identify security services to be installed and install identified security services.",
+          "risk": 0.0449709
+        },
+        {
+          "control": "Ensure all devices do not make network ports and/or services available to the internet",
+          "risk": 0.0197324
+        },
+        {
+          "control": "Ensure all devices operate with a minimal number of network ports active",
+          "risk": 0.0197324
+        },
+        {
+          "control": "Apply jamming countermeasures",
+          "risk": 0.012861
+        },
+        {
+          "control": "Enable a firewall and ensure that it can only be accessed from your client systems",
+          "risk": 0.00595752
+        },
+        {
+          "control": "Enable network segmentation technologies such as firewalls to isolate IoT systems from critical IT systems",
+          "risk": 0.00169375
+        },
+        {
+          "control": "For products with multiple network interfaces -  the uncontrolled ability to forward IP packets between the interfaces is disabled.r",
+          "risk": 0.000749174
+        }
+      ]
+    },
+    {
+      "title": "Encryption Controls for Residual Risk Reduction",
+      "data": [
+        {
+          "control": "Ensure HTTPS is enabled",
+          "risk": 0.0744735
+        },
+        {
+          "control": "Ensure all collected personal data is properly protected using encryption at rest and in transit",
+          "risk": 0.0486166
+        },
+        {
+          "control": "There is a process for secure provisioning of keys that includes generation -  distribution -  revocation and destruction. For example in compliance with FIPS140-2 [ref 5] or similar process. ",
+          "risk": 0.0392473
+        },
+        {
+          "control": "Ensure SSL/TLS implementations are up to date and properly configured",
+          "risk": 0.0269737
+        },
+        {
+          "control": "Ensure all communication between system components is encrypted as well as encrypting traffic between the system or device and the internet",
+          "risk": 0.015868
+        }
+      ]
+    },
+    {
+      "title": "Event Logging and Monitoring Controls for Residual Risk Reduction",
+      "data": [
+        {
+          "control": "Monitor the network continuously",
+          "risk": 0.0479226
+        },
+        {
+          "control": "Enable any logging functionality for security-related events",
+          "risk": 0.00419279
+        },
+        {
+          "control": "Enable any alert and notification functionality for security-related events",
+          "risk": 0.00419279
+        },
+        {
+          "control": "Protect log information from tampering",
+          "risk": 0.00359382
+        }
+      ]
+    },
+    {
+      "title": "Governance and Accountability Controls for Residual Risk Reduction",
+      "data": [
+        {
+          "control": "Collect data only if it has business-use or is essential to the functioning of the IoT device",
+          "risk": 0
+        },
+        {
+          "control": "Use data only with prior permission of all interested parties.",
+          "risk": 0
+        },
+        {
+          "control": "Retain data for only as long as necessary.",
+          "risk": 0
+        },
+        {
+          "control": "There is a role -  typically a board level executive -  who takes ownership of and is responsible for product -  service and business level security.",
+          "risk": 0
+        },
+        {
+          "control": "Organization of information security (roles and responsibilities to ensure information security) is defined for the consumer.",
+          "risk": 0
+        },
+        {
+          "control": "There are documented information security policies and procedures based on accepted standards -  guidelines -  and other documentation. Required policies for IoT include policies on asset management -  access control -  physical security -  communications security -  systems security -  incident management -  business continuity and compliance. Required procedures for IoT include procedures on patch management -  exception management -  change management -  incident managment -  access control managment (user activation/deactivation and privilege management).",
+          "risk": 0
+        },
+        {
+          "control": "A policy has been established for dealing with both internal and third party security research on the products or services.",
+          "risk": 0
+        },
+        {
+          "control": "A process is in place for consistent briefing of senior executives in the event of the identification of a vulnerability or a security breach -  especially those who may deal with the media or make public announcements. In particular that any public statementsmade in the event of a security breach -  should give as full and accurate account of the facts as possible.",
+          "risk": 0
+        },
+        {
+          "control": "There is a secure notification process based upon the IoTSF _ Vulnerability Disclosure Guidelines_ or similar recognised process -  for notifying partners/ users of any security updates.",
+          "risk": 0
+        },
+        {
+          "control": "Ensure compliance with relevant laws and regulations.",
+          "risk": 0
+        },
+        {
+          "control": "Ensure periodic internal audits are conducted.",
+          "risk": 0
+        },
+        {
+          "control": "Ensure periodic third-party audits are conducted.",
+          "risk": 0
+        },
+        {
+          "control": "Ensure that asset owners are informed about what data is collected -  why -  where it will be stored. ",
+          "risk": 0
+        },
+        {
+          "control": "Ensure asset owners check/verify what data is collected and delete data if necessary.r",
+          "risk": 0
+        },
+        {
+          "control": "Ensure business continuity disaster recovery plans exist and are tested regularly.",
+          "risk": 0
+        },
+        {
+          "control": "Whenever there is collection of data -  a privacy and acceptance notice must be acknowledged by the entity prior to providing the data. This notice must state the company's policy on data collection -  usage -  and retention.",
+          "risk": 0
+        }
+      ]
+    },
+    {
+      "title": "Identity and Access Management Controls for Residual Risk Reduction",
+      "data": [
+        {
+          "control": "The access control privileges are defined -  justified and documented.",
+          "risk": 0.119393
+        },
+        {
+          "control": "Change the default password to a strong one and if possible change the default username as well",
+          "risk": 0.0502481
+        },
+        {
+          "control": "Enable account lockout functionality where available",
+          "risk": 0.0441964
+        },
+        {
+          "control": "Ensure two factor authentication is enabled where available ",
+          "risk": 0.0395161
+        },
+        {
+          "control": "Enable making a periodic change of passwords mandatory (for example the duration could be 90 days)",
+          "risk": 0.0262709
+        },
+        {
+          "control": "Passwords file(s) are owned by and are only accessible to and writable by the most privileged account. ",
+          "risk": 0.0104203
+        },
+        {
+          "control": "The production software signing keys are under access control.r",
+          "risk": 0.0100138
+        },
+        {
+          "control": "All the related and network elements servers prevent anonymous/guest access except for read only access to public information.",
+          "risk": 0.00893165
+        },
+        {
+          "control": "The product only allows controlled user account access; access using anonymous or guest user accounts are not supported without justification.",
+          "risk": 0.00893165
+        },
+        {
+          "control": "Limit administrative capabilities",
+          "risk": 0.00893165
+        },
+        {
+          "control": "Files and directories are set to appropriate access privileges on a need to access basis.",
+          "risk": 0.00781519
+        },
+        {
+          "control": "Set user privileges to the minimal needed for operation",
+          "risk": 0.00781519
+        },
+        {
+          "control": "Access granted to employees is periodically reviewed.",
+          "risk": 0.00781519
+        },
+        {
+          "control": "All interactive operating system accounts or logins have been disabled.",
+          "risk": 0.00145085
+        }
+      ]
+    },
+    {
+      "title": "Physical Security Controls for Residual Risk Reduction",
+      "data": [
+        {
+          "control": "Maintain devices to ensure integrity and availability",
+          "risk": 0.0570301
+        },
+        {
+          "control": "Enable physical protection against tampering and reverse engineering",
+          "risk": 0.0427726
+        },
+        {
+          "control": "Check to ensure that any sensitive data and licensed software has been removed or securely overwritten prior to disposal. ",
+          "risk": 0.0219595
+        },
+        {
+          "control": "All communications port(s) -  such as USB -  RS232 etc. -  which are not used as part of the product_ normal operation are not physically accessible or are disabled. ",
+          "risk": 0.0192146
+        },
+        {
+          "control": "Disable any unused physical ports",
+          "risk": 0.0192146
+        },
+        {
+          "control": "Apply physical protection measures against environmental threats",
+          "risk": 0.0149527
+        },
+        {
+          "control": "Apply physical access controls to prevent unauthorized access to IoT devices",
+          "risk": 0.0132029
+        },
+        {
+          "control": "Mandate permission prior to taking devices off-site or moving devices between locations",
+          "risk": 0.00996849
+        }
+      ]
+    },
+    {
+      "title": "Supplier Security Controls for Residual Risk Reduction",
+      "data": [
+        {
+          "control": "Identify and address risks while dealing with third parties through agreements",
+          "risk": 0.099373
+        },
+        {
+          "control": "Monitor and review supplier services",
+          "risk": 0.099373
+        },
+        {
+          "control": "Manage changes with suppliers",
+          "risk": 0.099373
+        }
+      ]
+    },
+    {
+      "title": "Systems Security Controls for Residual Risk Reduction",
+      "data": [
+        {
+          "control": "All the applicable security features supported by the OS are enabled.r",
+          "risk": 0.0962508
+        },
+        {
+          "control": "Delete unnecessary applications on IoT devices",
+          "risk": 0.0945924
+        },
+        {
+          "control": "Delete unused services on IoT devices",
+          "risk": 0.0945924
+        },
+        {
+          "control": "Ensure web application firewall is enabled where available",
+          "risk": 0.0863605
+        },
+        {
+          "control": "Where a product includes a trusted secure boot process -  the entire production test and any related calibration is executed with the processor system operating in its secured boot -  authenticated software mode.",
+          "risk": 0.0766175
+        },
+        {
+          "control": "Perform application whitelisting",
+          "risk": 0.0615835
+        },
+        {
+          "control": "In the event that the product is intended to allow un-authenticated software -  such software should only be run with limited permissions and/or sandbox.r",
+          "risk": 0.00636434
+        },
+        {
+          "control": "Enable a firewall and ensure that it can only be accessed from your client systems",
+          "risk": 0.00531537
+        }
+      ]
+    },
+    {
+      "title": "Threat and Vulnerability Management Controls for Residual Risk Reduction",
+      "data": [
+        {
+          "control": "Ensure updates can be verified -  downloaded securely and applied quickly when vulnerabilities are discovered",
+          "risk": 0.311043
+        },
+        {
+          "control": "Schedule and implement periodic updatesr",
+          "risk": 0.229837
+        },
+        {
+          "control": "Conduct periodic web application penetration testing assessments for web interfaces and ensure a web application penetration testing assessment test has been conducted before deployment",
+          "risk": 0.107539
+        },
+        {
+          "control": "A vulnerability assessment has been performed before deployment and on an ongoing basis afterwards.",
+          "risk": 0.0668157
+        },
+        {
+          "control": "Conduct periodic network penetration testing assessments or red team exercises",
+          "risk": 0.0466663
+        }
+      ]
+    }
+  ]
+}

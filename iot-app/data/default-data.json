@@ -1,0 +1,1360 @@
+{
+  "asset": {
+    "columnSequence": [
+      "stateSponsored",
+      "idealogicallyMotivated",
+      "financiallyMotivated"
+    ],
+    "data": {
+      "asset-2": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-5": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-6": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-7": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-9": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-10": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-12": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-13": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-15": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-16": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-19": {
+        "stateSponsored": "0.95",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-20": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-21": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-23": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-24": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-25": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-26": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-27": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-29": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-30": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-31": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-33": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-34": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-35": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-36": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-38": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-39": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-42": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-43": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-45": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-46": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-47": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-49": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-50": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-51": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-52": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-54": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-55": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-56": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-58": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-59": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "asset-60": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      }
+    }
+  },
+  "action": {
+    "columnSequence": [
+      "stateSponsored",
+      "idealogicallyMotivated",
+      "financiallyMotivated"
+    ],
+    "data": {
+      "action-3": {
+        "stateSponsored": "0.95",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-4": {
+        "stateSponsored": "0.95",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-5": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-6": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-7": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-9": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-10": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-13": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-14": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-16": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-17": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-18": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-19": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-21": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-22": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-23": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-24": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-25": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-26": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-28": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-29": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-32": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-33": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-35": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-36": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-37": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-40": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-41": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-42": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-43": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-44": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-45": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-46": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-49": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-50": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-51": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-52": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-53": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-55": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-56": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-58": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-59": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-60": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-61": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-63": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-64": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-65": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-66": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-67": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-68": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-69": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-70": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-72": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-73": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-74": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-76": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-77": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-78": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-79": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-80": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-83": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-84": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-85": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-86": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-87": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-88": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-89": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-91": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-92": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-93": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-94": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-95": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-96": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-98": {
+        "stateSponsored": "0.95",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-99": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-101": {
+        "stateSponsored": "0.95",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-102": {
+        "stateSponsored": "0.95",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-104": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-105": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-106": {
+        "stateSponsored": "0.9",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-107": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-108": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-110": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-111": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-112": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-114": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-116": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-118": {
+        "stateSponsored": "0.55",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-119": {
+        "stateSponsored": "0.55",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-121": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-122": {
+        "stateSponsored": "0.5",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-124": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-125": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-126": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-127": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-129": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-130": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-131": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-133": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-134": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-135": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-136": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-137": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-139": {
+        "stateSponsored": "0.82",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-140": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-141": {
+        "stateSponsored": "0.75",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-143": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-144": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-145": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-146": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      },
+      "action-147": {
+        "stateSponsored": "0.33",
+        "idealogicallyMotivated": "0",
+        "financiallyMotivated": "0"
+      }
+    }
+  },
+  "vulnerability": {
+    "columnSequence": [
+      "vulPrevScore"
+    ],
+    "data": {
+      "vulnerability-3": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-4": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-5": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-7": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-8": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-9": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-10": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-12": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-13": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-15": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-16": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-17": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-18": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-19": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-21": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-22": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-23": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-24": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-27": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-28": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-29": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-30": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-31": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-32": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-33": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-34": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-35": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-36": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-37": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-38": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-40": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-41": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-42": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-43": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-44": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-45": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-46": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-47": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-48": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-49": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-50": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-51": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-52": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-53": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-54": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-55": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-57": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-58": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-59": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-60": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-61": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-62": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-64": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-65": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-66": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-67": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-68": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-70": {
+        "vulPrevScore": "1"
+      },
+      "vulnerability-71": {
+        "vulPrevScore": "1"
+      }
+    }
+  },
+  "property": {
+    "columnSequence": [
+      "propImpactScore"
+    ],
+    "data": {
+      "property-3": {
+        "propImpactScore": "30"
+      },
+      "property-4": {
+        "propImpactScore": "50"
+      },
+      "property-6": {
+        "propImpactScore": "10"
+      },
+      "property-7": {
+        "propImpactScore": "30"
+      },
+      "property-8": {
+        "propImpactScore": "70"
+      },
+      "property-11": {
+        "propImpactScore": "15"
+      },
+      "property-12": {
+        "propImpactScore": "40"
+      },
+      "property-13": {
+        "propImpactScore": "10"
+      },
+      "property-15": {
+        "propImpactScore": "30"
+      },
+      "property-16": {
+        "propImpactScore": "30"
+      },
+      "property-17": {
+        "propImpactScore": "30"
+      },
+      "property-18": {
+        "propImpactScore": "30"
+      },
+      "property-20": {
+        "propImpactScore": "30"
+      },
+      "property-21": {
+        "propImpactScore": "30"
+      },
+      "property-22": {
+        "propImpactScore": "30"
+      },
+      "property-24": {
+        "propImpactScore": "20"
+      },
+      "property-25": {
+        "propImpactScore": "30"
+      },
+      "property-26": {
+        "propImpactScore": "40"
+      },
+      "property-29": {
+        "propImpactScore": "40"
+      },
+      "property-30": {
+        "propImpactScore": "70"
+      },
+      "property-32": {
+        "propImpactScore": "60"
+      },
+      "property-33": {
+        "propImpactScore": "40"
+      },
+      "property-34": {
+        "propImpactScore": "30"
+      }
+    }
+  },
+  "control": {
+    "columnSequence": [
+      "implScore",
+      "effScore"
+    ],
+    "data": {
+      "control-1": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-2": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-3": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-4": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-5": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-6": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-7": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-8": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-9": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-10": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-11": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-12": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-13": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-14": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-15": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-16": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-17": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-18": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-19": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-20": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-21": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-22": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-23": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-24": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-25": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-26": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-27": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-28": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-29": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-30": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-31": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-32": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-33": {
+        "implScore": "1",
+        "effScore": "0.8"
+      },
+      "control-34": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-35": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-36": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-37": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-38": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-39": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-40": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-41": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-42": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-43": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-44": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-45": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-46": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-47": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-48": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-49": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-50": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-51": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-52": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-53": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-54": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-55": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-56": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-57": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-58": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-59": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-60": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-61": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-62": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-63": {
+        "implScore": "4",
+        "effScore": "0.8"
+      },
+      "control-64": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-65": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      },
+      "control-66": {
+        "implScore": "3",
+        "effScore": "0.8"
+      },
+      "control-67": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-68": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-69": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-70": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-71": {
+        "implScore": "2",
+        "effScore": "0.8"
+      },
+      "control-72": {
+        "implScore": "2.5",
+        "effScore": "0.8"
+      }
+    }
+  },
+  "device": {
+    "columnSequence": [
+      "devPrevScore"
+    ],
+    "data": {
+      "device-1": {
+        "devPrevScore": "0"
+      },
+      "device-2": {
+        "devPrevScore": "0"
+      },
+      "device-3": {
+        "devPrevScore": "0"
+      },
+      "device-4": {
+        "devPrevScore": "0"
+      }
+    }
+  }
+}
